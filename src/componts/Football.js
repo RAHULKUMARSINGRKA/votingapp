@@ -140,7 +140,7 @@ const congrs3=() =>{
     <div>
         <div className='box'>
       {/* ***box1 start*** */}
-     
+         <h1>ertjkl</h1>
         <div className='box1'>
             <h1>Bharatiya Janata Party</h1>
             <img src={require('./imge/pngegg (1).png')}/>
